@@ -14,13 +14,11 @@ Ok so, I'm going to make a few assumptions here
 - [Web Development 2023 Overview](https://www.youtube.com/watch?v=u72H_zZzkcw). From the same channel as the videos above. This isn't a tutorial, it just gives you an overview of all the technologies in the "Web Development" space, as well as some of the big concepts (such as Frontend vs Backend development). This should just help familiarize you with the space.
 
 ## Helplful Resources
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - contains docs for [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React Docs](https://react.dev/). These are incredible, and are _the_ place to go for learning when you do start learning React
 - [CSS Tricks Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Tricks Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-
-## Important Documentation
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) - contains docs for [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React Docs](https://react.dev/). These are incredible, and are _the_ place to go for learning when you do start learning React
 
 ## Random Advice
 - **Don't get stuck in "tutorial hell".** That is, do not get caught in the trap of thinking you need to learn more before you are actualy able to build something. Each time you learn something, try to actually apply that thing by building something with it. Even if you can't get it to work, you will learn so much more by actually trying to creating something
