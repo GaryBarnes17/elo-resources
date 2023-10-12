@@ -11,7 +11,11 @@ Ok so, I'm going to make a few assumptions here
 
 ## Learning Path 
 - [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE&t=2437s), [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI), and [JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c). This channel is awesome, and very beginner friendly as far as I can tell. After working through these courses, you should be able to build a really simple website. I would highly reccomend doing this before consuming more content so you can apply what you've learned
-- [Web Development 2023 Overview](https://www.youtube.com/watch?v=u72H_zZzkcw). From the same channel as the videos above. This isn't a tutorial, it just gives you an overview of all the technologies in the "Web Development" space, as well as some of the big concepts (such as Frontend vs Backend development). This should just help familiarize you with the space. 
+- [Web Development 2023 Overview](https://www.youtube.com/watch?v=u72H_zZzkcw). From the same channel as the videos above. This isn't a tutorial, it just gives you an overview of all the technologies in the "Web Development" space, as well as some of the big concepts (such as Frontend vs Backend development). This should just help familiarize you with the space.
+
+## Helplful Resources
+- [CSS Tricks Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [CSS Tricks Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
 ## Important Documentation
